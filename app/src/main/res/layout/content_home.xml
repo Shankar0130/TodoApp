@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mikelau.views.shimmer.ShimmerRecyclerViewX
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".HomeActivity"
+    tools:showIn="@layout/activity_home"
+    android:layout_marginTop="70dp"
+    android:layout_marginBottom="80dp"
+    android:id="@+id/recyclerview"
+    app:shimmer_demo_child_count="10"
+    app:shimmer_demo_grid_child_count="2"
+    app:shimmer_demo_layout_manager_type="grid"
+    app:shimmer_demo_angle="20">
+
+
+
+</com.mikelau.views.shimmer.ShimmerRecyclerViewX>

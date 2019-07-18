@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "1035507742215",
+    "firebase_url": "https://emailauthenticationtesting.firebaseio.com",
+    "project_id": "emailauthenticationtesting",
+    "storage_bucket": "emailauthenticationtesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035507742215:android:8bee816fa0e91603",
+        "android_client_info": {
+          "package_name": "com.shankaryadav.www.emailauthenticationtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035507742215-l0ta48r0c0ijdlogbnv28kt3v84vtvf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankaryadav.www.emailauthenticationtesting",
+            "certificate_hash": "e9850c0d20673f50bf2f603b8032dbce1f05e00a"
+          }
+        },
+        {
+          "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0cwPflT-ZHBCw2o-_lt3uxG4uBt3cgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035507742215:android:f51a7ccb7056ba59",
+        "android_client_info": {
+          "package_name": "com.shankaryadav.www.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035507742215-kmnt5e52l3svddeeqrq5j36phm5uenjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankaryadav.www.myapplication",
+            "certificate_hash": "e9850c0d20673f50bf2f603b8032dbce1f05e00a"
+          }
+        },
+        {
+          "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0cwPflT-ZHBCw2o-_lt3uxG4uBt3cgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035507742215:android:5e492a7d717521e7",
+        "android_client_info": {
+          "package_name": "com.shankaryadav.www.socialauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035507742215-vfhnvuf4m6misrrhmarihl73tjfmcrpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankaryadav.www.socialauthentication",
+            "certificate_hash": "e9850c0d20673f50bf2f603b8032dbce1f05e00a"
+          }
+        },
+        {
+          "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0cwPflT-ZHBCw2o-_lt3uxG4uBt3cgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035507742215:android:eb0b392de75b7430",
+        "android_client_info": {
+          "package_name": "com.shankaryadav.www.sociocircle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035507742215-vjdtra226msqjgqolb7urrfonoi7hc9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankaryadav.www.sociocircle",
+            "certificate_hash": "e9850c0d20673f50bf2f603b8032dbce1f05e00a"
+          }
+        },
+        {
+          "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0cwPflT-ZHBCw2o-_lt3uxG4uBt3cgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035507742215:android:49a6267f6d2d0b59",
+        "android_client_info": {
+          "package_name": "com.shankaryadav.www.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035507742215-srjlk56mqjlij6toctb3in4smbd3rb1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankaryadav.www.todoapp",
+            "certificate_hash": "e9850c0d20673f50bf2f603b8032dbce1f05e00a"
+          }
+        },
+        {
+          "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0cwPflT-ZHBCw2o-_lt3uxG4uBt3cgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035507742215:android:0095c4ef86539ce8",
+        "android_client_info": {
+          "package_name": "com.shankaryadav.www.whatsapplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035507742215-jq3e12m2qgovgtvdrrbel7mgnsi4h2d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankaryadav.www.whatsapplogin",
+            "certificate_hash": "e9850c0d20673f50bf2f603b8032dbce1f05e00a"
+          }
+        },
+        {
+          "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0cwPflT-ZHBCw2o-_lt3uxG4uBt3cgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035507742215-4r49h9itlkbk5mrdsnfbhkq8ftsjh7cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
